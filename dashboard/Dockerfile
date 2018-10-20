@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.12.1
+MAINTAINER ljrocklee@163.com
