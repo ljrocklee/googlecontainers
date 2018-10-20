@@ -1,2 +1,2 @@
-FROM ist0ne/kubernetes-dashboard-amd64:v1.12.1
+FROM ist0ne/kubernetes-dashboard-amd64
 MAINTAINER ljrocklee@163.com
